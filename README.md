@@ -22,15 +22,14 @@
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
 
-| Title                  | Description                                                                 | Company                          | Repo Link                       |
-|------------------------|-----------------------------------------------------------------------------|----------------------------------|----------------------------------|
-| **Project Management Assistant** | Involved in multiple projects for rolling stock systems                       | Hyundai / Rotem (Korea)          | [Click](https://github.com/republicofmakers/Operational-Works-Project-management) |
-| **Hardware Engineer**           | NFC Locker Design with NFC/BLE/Wi-Fi for gyms, hotels, swimming pools, etc.   | Yilmazlar / Freelance (Turkey)   | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller/tree/main) |
-| **Hardware Engineer**           | NFC Door Access System with TFT, NFC, BLE, and Wi-Fi                          | Yilmazlar / Freelance (Turkey)   | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller/tree/main) |
-| **Hardware Engineer**           | IoT Medical Device with deep sleep and periodic tracking                     | Geniecup (Korea)                 | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device) |
-| **Hardware Engineer**           | BMS Controller Design using PADs Mentor                                      | Hyundai Inverter Solution (Korea)| [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
-| **Hardware Engineer**           | Commercial AI Camera design and development                                  | ONDAI AI Inc. (Korea)            | [Click](https://github.com/republicofmakers/Industrial-Works-AI-Camera) |
+| Title                  | Description                                                                                                                | Company                          | Repo Link                       |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|
+| **Project Management Assistant** | Participated in project coordination, documentation, and technical tracking for multiple railway system initiatives.            | Hyundai / Rotem (Korea)          | [Click](https://github.com/republicofmakers/Operational-Works-Project-management) |
+| **Hardware Engineer**           | Designed a secure NFC-enabled locker system with BLE and Wi‑Fi support for gyms, hotels, and public facilities.                  | Yilmazlar / Freelance (Turkey)   | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-LOCK-Controller) |
+| **Hardware Engineer**           | Developed a smart door access system integrating TFT display, NFC, BLE, and Wi‑Fi for secure and interactive control.              | Yilmazlar / Freelance (Turkey)   | [Click](https://github.com/republicofmakers/Industrial-Works-NFC-TFT-Controller) |
+| **Hardware Engineer**           | Developed a low-cost IoT medical device using ESP32 that performs 3D thermal scanning of objects for diagnostic applications.     | Geniecup (Korea)                 | [Click](https://github.com/republicofmakers/Industrial-Works-IOT-Medical-Device) |
+| **Hardware Engineer**           | Designed a 4-layer control board using PADs Mentor with a TMS320F28335 MCU to manage a BMS system in a short-term project.       | Hyundai Inverter Solution (Korea)| [Click](https://github.com/republicofmakers/Industrial-Works-BMS-Design) |
+| **Hardware Engineer**           | Designed and built an AI-based camera system for real-time accident detection, integrating embedded vision and neural processing. | ONDAI AI Inc. (Korea)            | [Click](https://github.com/republicofmakers/Industrial-Works-AI-Camera) |
 
----
 
 I am currently working at **ONDAI AI Inc.** as a hardware engineer, where I lead the design and development of commercial AI camera systems optimized for edge intelligence and machine vision.
